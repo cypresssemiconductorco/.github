@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Cypress Community
+    url: https://community.cypress.com/welcome
+    about: A great place to look for answers
+  - name: Cypress.com
+    url: https://community.cypress.com/welcome
+    about: For all things Cypress
+    
